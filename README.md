@@ -11,8 +11,7 @@ How to use it :
   <li>On inspect window -> add component -> SABI -> to access most of the components. ( some components are not available from here )</li>
 </ul>
 
-
-What is the main things need to be worked on :
+What are the primary areas that require attention and improvement :
 <ul> <li>This project have a dependency on odin inspector. All of the editor script need to be converted to UI Tool kit </li></ul>
 
 Whats included : 
