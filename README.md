@@ -3,14 +3,14 @@
 What is this : 
 <ul> <li> Hello, my name is sabith and this is a scriptable object architecture / framework / pattern for unity game engine. Build your game on top of this layer for a far better developer experience</li></ul>
 
-How to setup :
+How to get started :
 <ul>
   <li>Import odin inspector (it's a dependency) </li>
   <li>If you want to start as a fresh project : download this full project and open with unity hub</li>
   <li>If you want to add it to existing project : download "_Project" folder from "Assets" and drag and drop it to your project </li>
 </ul>
 
-How to get started :
+How to use it :
 <ul>
   <li>Right click on project window -> Create -> So -> to access all scriptable objects</li>
   <li>On inspect window -> add component -> _SABI -> to access most of the components. ( some components are not available from here )</li>
