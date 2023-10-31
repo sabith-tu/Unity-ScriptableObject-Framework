@@ -3,22 +3,19 @@
 
 
 What is this : 
-This is a scriptable object architecture / framework / pattern for unity inspired by "Unite Austin 2017 - Game Architecture with Scriptable Objects". Build your game on top of this layer for a far better developer experience
+<ul> <li>This is a scriptable object architecture / framework / pattern for unity inspired by "Unite Austin 2017 - Game Architecture with Scriptable Objects". Build your game on top of this layer for a far better developer experience</li></ul>
 
 How to use it :
 <ul>
   <li>Right click on project window -> Create -> So -> to access all scriptable objects</li>
-  <li>
-On inspect window -> add component -> SABI -> to access most of the components. ( some components are not available from here )
-    
-  </li>
+  <li>On inspect window -> add component -> SABI -> to access most of the components. ( some components are not available from here )</li>
 </ul>
 
 
 What is the main things need to be worked on :
-This project have a dependency on odin inspector. All of the editor script need to be converted to UI Tool kit 
+<ul> <li>This project have a dependency on odin inspector. All of the editor script need to be converted to UI Tool kit </li></ul>
 
-<p>Whats included</p>
+Whats included : 
 <ul>
   <li> Scriptable object variables with change notifier </li>
   <li> Trigger scripts: to start an action based on multiple events </li>
