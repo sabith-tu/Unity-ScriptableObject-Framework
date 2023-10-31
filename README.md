@@ -9,7 +9,7 @@ How to setup :
   <li>If you want to add it to existing project : download Project folder from Assets and drag and drop it to your project </li>
 </ul>
 
-How to use it :
+How to get started :
 <ul>
   <li>Right click on project window -> Create -> So -> to access all scriptable objects</li>
   <li>On inspect window -> add component -> _SABI -> to access most of the components. ( some components are not available from here )</li>
