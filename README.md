@@ -1,0 +1,40 @@
+# Sabi-Unity-ScriptableObject-Framework
+
+
+
+What is this : 
+This is a scriptable object architecture / framework / pattern for unity inspired by "Unite Austin 2017 - Game Architecture with Scriptable Objects". Build your game on top of this layer for a far better developer experience
+
+How to use it :
+<ul>
+  <li>Right click on project window -> Create -> So -> to access all scriptable objects</li>
+  <li>
+On inspect window -> add component -> SABI -> to access most of the components. ( some components are not available from here )
+    
+  </li>
+</ul>
+
+
+What is the main things need to be worked on :
+This project have a dependency on odin inspector. All of the editor script need to be converted to UI Tool kit 
+
+<p>Whats included</p>
+<ul>
+  <li> Scriptable object variables with change notifier </li>
+  <li> Trigger scripts: to start an action based on multiple events </li>
+  <li> Event system </li>
+  <li> Action script: to execute multiple predefined actions </li>
+  <li> Flow control: control the flow of execution </li>
+  <li> Quich actions: create and execute some repeated actions without without new game object or scripts </li>
+  <li> Simple state machine </li>
+  <li> Simple animation controller </li>
+  <li> Save load system </li>
+  <li> And much much more ... </li>
+</ul>
+
+```diff
+
+- Important: This project have a dependency on odin inspector.
+
+```
+ The installation of Odin Inspector is a prerequisite for the proper functioning of the editor scripts; failure to do so will result in 750+ errors.
