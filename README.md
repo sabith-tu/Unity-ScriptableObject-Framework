@@ -1,6 +1,6 @@
-# Sabi-Unity-ScriptableObject-Framework
+# Unity-ScriptableObject-Framework
 
-
+Hello, my name is sabith and this is my first opensource project
 
 What is this : 
 <ul> <li>This is a scriptable object architecture / framework / pattern for unity inspired by "Unite Austin 2017 - Game Architecture with Scriptable Objects". Build your game on top of this layer for a far better developer experience</li></ul>
