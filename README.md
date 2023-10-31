@@ -8,7 +8,7 @@ What is this :
 How to use it :
 <ul>
   <li>Right click on project window -> Create -> So -> to access all scriptable objects</li>
-  <li>On inspect window -> add component -> SABI -> to access most of the components. ( some components are not available from here )</li>
+  <li>On inspect window -> add component -> _SABI -> to access most of the components. ( some components are not available from here )</li>
 </ul>
 
 What are the primary areas that require attention and improvement :
