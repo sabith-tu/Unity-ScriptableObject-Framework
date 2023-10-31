@@ -5,6 +5,12 @@
 What is this : 
 <ul> <li>This is a scriptable object architecture / framework / pattern for unity inspired by "Unite Austin 2017 - Game Architecture with Scriptable Objects". Build your game on top of this layer for a far better developer experience</li></ul>
 
+How to setup :
+<ul>
+  <li>If you want to start as a fresh project : download full project and open with unity hub</li>
+  <li>If you want to add it to existing project : download Project folder from Assets and drag and drop it to your project </li>
+</ul>
+
 How to use it :
 <ul>
   <li>Right click on project window -> Create -> So -> to access all scriptable objects</li>
