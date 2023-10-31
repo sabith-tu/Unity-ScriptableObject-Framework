@@ -7,7 +7,7 @@ What is this :
 
 How to setup :
 <ul>
-  <li>If you want to start as a fresh project : download full project and open with unity hub</li>
+  <li>If you want to start as a fresh project : download this full project and open with unity hub</li>
   <li>If you want to add it to existing project : download Project folder from Assets and drag and drop it to your project </li>
 </ul>
 
@@ -28,6 +28,7 @@ Whats included :
   <li> Action script: to execute multiple predefined actions </li>
   <li> Flow control: control the flow of execution </li>
   <li> Quich actions: create and execute some repeated actions without without new game object or scripts </li>
+  <li> Optimized code with Assembly Definitions </li>
   <li> Simple state machine </li>
   <li> Simple animation controller </li>
   <li> Save load system </li>
