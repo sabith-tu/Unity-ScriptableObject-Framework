@@ -25,8 +25,8 @@ What are the primary areas that require attention and improvement :
 Whats included : 
 <ul>
   <li> Scriptable object variables with change notifier </li>
-  <li> Trigger scripts: to start an action based on multiple events </li>
   <li> Event system </li>
+  <li> Trigger scripts: to start an action based on multiple events </li>
   <li> Action script: to execute multiple predefined actions </li>
   <li> Flow control: control the flow of execution </li>
   <li> Quich actions: create and execute some repeated actions without without new game object or scripts </li>
