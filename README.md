@@ -6,7 +6,7 @@ What is this :
 How to setup :
 <ul>
   <li>If you want to start as a fresh project : download this full project and open with unity hub</li>
-  <li>If you want to add it to existing project : download Project folder from Assets and drag and drop it to your project </li>
+  <li>If you want to add it to existing project : download "_Project" folder from "Assets" and drag and drop it to your project </li>
 </ul>
 
 How to get started :
