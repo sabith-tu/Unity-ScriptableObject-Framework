@@ -6,10 +6,12 @@ What is this :
 How to get started :
 <ul>
   <li>Import odin inspector (it's a dependency) </li>
-  <li> <ul>
-    <li>If you want to start as a fresh project : download this full project and open with unity hub</li>
-  <li>If you want to add it to existing project : download "_Project" folder from "Assets" and drag and drop it to your project </li>
-  </ul> </li>
+  <li> 
+    <ul>
+      <li>If you want to start as a fresh project : download this full project and open with unity hub</li>
+      <li>If you want to add it to existing project : download "_Project" folder from "Assets" and drag and drop it to your project </li>
+    </ul> 
+  </li>
   
 </ul>
 
