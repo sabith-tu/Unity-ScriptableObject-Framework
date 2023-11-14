@@ -5,11 +5,11 @@ What is this :
 
 How to get started :
 <ul>
-  <li>Import odin inspector (it's a dependency for now) </li>
+  <li>Make sure you own odin inspector (it's a dependency for now) </li>
   <li> 
     <ul>
-      <li>If you want to start as a fresh project : download this full project and open with unity hub</li>
-      <li>If you want to add it to existing project : download "_Project" folder from "Assets" and drag and drop it to your project </li>
+      <li>If you want to start as a fresh project : Download this full project and open with unity hub. Click on ignore option at the dialog box "Enter safe mode". After opening the project import odin to remove the errors </li>
+      <li>If you want to add it to existing project : Make sure you have odin on the project. Download "_Project" folder from "Assets" and drag and drop it to your project </li>
     </ul> 
   </li>
   
