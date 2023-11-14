@@ -5,7 +5,7 @@ What is this :
 
 How to get started :
 <ul>
-  <li>Import odin inspector (it's a dependency) </li>
+  <li>Import odin inspector (it's a dependency for now) </li>
   <li> 
     <ul>
       <li>If you want to start as a fresh project : download this full project and open with unity hub</li>
