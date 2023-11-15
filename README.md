@@ -1,7 +1,7 @@
 # Unity-ScriptableObject-Framework
 
 What is this : 
-<ul> <li> Hello, my name is sabith and this is a scriptable object architecture / framework / pattern for unity game engine. Build your game on top of this layer for a far better developer experience</li></ul>
+<ul> <li> Hello, my name is sabith and this is a Open-source scriptable object architecture / framework / pattern for unity game engine. Build your game on top of this layer for a far better developer experience</li></ul>
 
 How to get started :
 <ul>
